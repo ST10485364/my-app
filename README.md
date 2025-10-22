@@ -22,5 +22,11 @@ Error handling: if a certain requirement is not added it will alert you to add i
 Catogory buttons: this allows the chef to know which catogory the meal they are adding falls under
 save button: this allows you to  save the meals added
 Cancel button: this will cancel the dish that was added
-back button: this button allows the chef to go back incase they would like to see or change something
+back button: this button allows the chef to go back incase they would like to see or change something.
+# Actions on screens
+1) The app will run immediately showing the start odering button
+2) The start ordering button will take you to the next page which is the Homepage
+3) on top you will see the different catogories and where you will be able to add a new dish, and under that will you see the dishes as well as their descriptions and prices of the meals that already exist on the menu.
+4) After adding the dish you will be able to save it
+   
 
