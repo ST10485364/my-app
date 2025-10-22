@@ -36,6 +36,7 @@ back button: this button allows the chef to go back incase they would like to se
 <img width="422" height="382" alt="Screenshot 2" src="https://github.com/user-attachments/assets/4bd40f59-2afc-4b2b-b606-03179b150cd2" />
 <img width="414" height="379" alt="Screenshot 3" src="https://github.com/user-attachments/assets/eaa5fb3e-ce7e-45b0-ac75-251d8a904588" />
 <img width="415" height="378" alt="Screenshot 4" src="https://github.com/user-attachments/assets/bc836244-04db-433e-9425-a2395bc5b670" />
+
 # References
 The MAST module manual on arc
 The lecturer slides on arc(super handy lecturer slides)
