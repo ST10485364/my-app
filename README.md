@@ -28,5 +28,14 @@ back button: this button allows the chef to go back incase they would like to se
 2) The start ordering button will take you to the next page which is the Homepage
 3) on top you will see the different catogories and where you will be able to add a new dish, and under that will you see the dishes as well as their descriptions and prices of the meals that already exist on the menu.
 4) After adding the dish you will be able to save it
+# Documentation
+<img width="424" height="374" alt="Screenshot 1" src="https://github.com/user-attachments/assets/d0efbb4f-5ff8-48fc-b956-4a3d0ca1d17f" />
+<img width="422" height="382" alt="Screenshot 2" src="https://github.com/user-attachments/assets/4bd40f59-2afc-4b2b-b606-03179b150cd2" />
+<img width="414" height="379" alt="Screenshot 3" src="https://github.com/user-attachments/assets/eaa5fb3e-ce7e-45b0-ac75-251d8a904588" />
+<img width="415" height="378" alt="Screenshot 4" src="https://github.com/user-attachments/assets/bc836244-04db-433e-9425-a2395bc5b670" />
+# References
+The MAST module manual on arc
+
+
    
 
