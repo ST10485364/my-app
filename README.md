@@ -38,9 +38,9 @@ back button: this button allows the chef to go back incase they would like to se
 <img width="415" height="378" alt="Screenshot 4" src="https://github.com/user-attachments/assets/bc836244-04db-433e-9425-a2395bc5b670" />
 
 # References
-The MAST module manual on arc
-The lecturer slides on arc(super handy lecturer slides)
-ChatGpt (to help me figure out errors in my code and how to fix them)
+1) The MAST module manual on arc
+2) The lecturer slides on arc(super handy lecturer slides)
+3) ChatGpt (to help me figure out errors in my code and how to fix them)
 
 
    
